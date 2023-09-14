@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @50KB
+- 👋 Hi, I’m Monirul Abdin Seum
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN STACK
 
